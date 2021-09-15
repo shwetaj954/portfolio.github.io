@@ -1,0 +1,139 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-size: 90px;
+   
+}
+h1,h2,h3{
+    line-height: 1.2em;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-size: 22px;
+    line-height: 1.9em;
+    font-family: monospace;
+}
+.btncrt{
+    background-color: #003a84;
+    color:white;
+    padding-left: 20px;
+    padding-top: 12px;
+    padding-right: 20px;
+    padding-bottom: 12px;
+    font-size: 14px;
+    font-family: monospace;
+    border-radius: 20px;
+    border-color: #003a84;
+    margin-bottom: 10px;
+
+}
+.btncrt:hover{
+    background-color:white ;
+    color:#003a84;
+    border-color: white;
+}
+h2{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 50px;
+    color:#003a84;
+    
+   
+}
+.contain-img{
+    background-color: white;margin:0;padding:0%;
+    
+}
+.contain-p{
+   
+    text-align:center;
+    color:black;
+}
+h3{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 40px;
+    color:#003a84;
+    font-weight: 900;
+}
+.pard{
+    background-image: url('./images/sun-sky-nature-atmospheric-phenomenon-tree-cloud-99190-pxhere.com.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+    padding-right: 30px;
+  
+    padding-top: 50px;
+}
+.contain-p2{
+    color:white;
+}
+.row{
+    margin:0;
+    padding:0;
+}
+.common{
+    background-image: url('./images/nature-horizon-wilderness-mountain-cloud-sunrise-13688-pxhere.com\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+    margin:0%; 
+    
+    
+}
+.portfolio-cover-1{
+    height:90vh;
+    margin:0;
+    background-image: linear-gradient( rgba(0,0,0,.3), rgba(0,0,0,.4 )),url('./images/pcover2\ \(2\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.portfolio1-contain{
+    padding-top: 100px;
+}
+.profolio-head1{
+    font-size:70px;
+    color:white;
+}
+h4{
+    text-align: left;
+    color:white;
+}
+.head1-portinto{
+    color:white;
+    font-size:22px;
+    line-height:1.9em;
+}
+.column{
+    box-shadow:#e6e9ee 0px 0px 50px;
+    
+}
+.portfolio-cover-2{
+    height:105vh;
+    margin:0;
+    background-image: linear-gradient( rgba(0,0,0,.2), rgba(0,0,0,.2 )),url('./images/portfoliocover2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.portfolio-cover-3{
+    height:105vh;
+    margin:0;
+    background-image: linear-gradient( rgba(0,0,0,.4), rgba(0,0,0,.4 )),url('./images/light-girl-sunshine-sun-woman-sunset-7835-pxhere.com.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.portfolio-cover-4{
+    height:105vh;
+    margin:0;
+    background-image: linear-gradient( rgba(0,0,0,.4), rgba(0,0,0,.4 )),url('./images/pcover2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+.port-topic{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#003a84;
+}
